@@ -1,0 +1,12 @@
+{
+  "name": "Sirish",
+  "subjects": ["Math", "Science", "English"],
+  "batch": 2019,
+  "isAuthenticated": true,
+  "middlename": null,
+  "address": {
+    "city": "Biratnagar",
+    "state": "Koshi",
+    "zip-code": 56613
+  }
+}
